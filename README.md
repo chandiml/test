@@ -1,5 +1,5 @@
 # Readme Markdown file
 
-An example README file in markdown for demo purposes
+An example README file in markdown 
 
 commit 2 - test
